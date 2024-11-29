@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "AscensorApi.Controllers.AscensorController",
+    "Method": "AbrirPuertas",
+    "RelativePath": "api/Ascensor/abrir-puertas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AscensorApi.Controllers.AscensorController",
+    "Method": "CerrarPuertas",
+    "RelativePath": "api/Ascensor/cerrar-puertas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AscensorApi.Controllers.AscensorController",
+    "Method": "DetenerAscensor",
+    "RelativePath": "api/Ascensor/detener",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AscensorApi.Controllers.AscensorController",
+    "Method": "ObtenerEstado",
+    "RelativePath": "api/Ascensor/estado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AscensorApi.Entidades.Ascensor",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AscensorApi.Controllers.AscensorController",
+    "Method": "IniciarAscensor",
+    "RelativePath": "api/Ascensor/iniciar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "piso",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AscensorApi.Controllers.AscensorController",
+    "Method": "LlamarAscensor",
+    "RelativePath": "api/Ascensor/llamar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "piso",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

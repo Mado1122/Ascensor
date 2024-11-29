@@ -1,0 +1,64 @@
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\AscensorApi.exe
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\AscensorApi.deps.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\AscensorApi.runtimeconfig.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\AscensorApi.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\AscensorApi.pdb
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.csproj.AssemblyReference.cache
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.AssemblyInfoInputs.cache
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.AssemblyInfo.cs
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.csproj.CoreCompileInputs.cache
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.AscensorApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AscensorApi.props
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AscensorApi.props
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AscensorApi.props
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\scopedcss\bundle\AscensorApi.styles.css
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\Ascensor.0A168E92.Up2Date
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\refint\AscensorApi.dll
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.pdb
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\AscensorApi.genruntimeconfig.cache
+C:\Users\Mado\source\repos\AscensorApi\AscensorApi\obj\Debug\net8.0\ref\AscensorApi.dll
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\appsettings.Development.json
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\appsettings.json
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\AscensorApi.exe
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\AscensorApi.deps.json
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\AscensorApi.runtimeconfig.json
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\AscensorApi.dll
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\AscensorApi.pdb
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project money\Ascensor api and front\AscensorApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.csproj.AssemblyReference.cache
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.AssemblyInfoInputs.cache
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.AssemblyInfo.cs
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.csproj.CoreCompileInputs.cache
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.MvcApplicationPartsAssemblyInfo.cs
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.MvcApplicationPartsAssemblyInfo.cache
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.AscensorApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AscensorApi.props
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AscensorApi.props
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AscensorApi.props
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\scopedcss\bundle\AscensorApi.styles.css
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\Ascensor.0A168E92.Up2Date
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.dll
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\refint\AscensorApi.dll
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.pdb
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\AscensorApi.genruntimeconfig.cache
+D:\project money\Ascensor api and front\AscensorApi\obj\Debug\net8.0\ref\AscensorApi.dll
