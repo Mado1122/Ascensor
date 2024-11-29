@@ -1,0 +1,81 @@
+.contenedor-ascensor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f9f9f9;
+    padding: 30px;
+    font-family: 'Arial', sans-serif;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .titulo {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .texto-estado {
+    font-size: 1.1rem;
+    color: #34495e;
+    margin: 5px 0;
+  }
+  
+  .mensaje {
+    font-size: 1.1rem;
+    color: #27ae60;
+    font-weight: bold;
+    margin: 15px 0;
+  }
+  
+  .input-piso {
+    padding: 10px;
+    font-size: 1rem;
+    width: 120px;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .input-piso:focus {
+    border-color: #3498db;
+  }
+  
+  .contenedor-botones {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .btn-accion {
+    padding: 12px 20px;
+    font-size: 1.2rem;
+    color: white;
+    background-color: #3498db;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-accion:hover {
+    background-color: #2980b9;
+  }
+  
+  .btn-accion:active {
+    background-color: #1c5987;
+  }
+  
+  @media (max-width: 768px) {
+    .contenedor-ascensor {
+      width: 90%;
+    }
+    .btn-accion {
+      width: 100%;
+    }
+  }
